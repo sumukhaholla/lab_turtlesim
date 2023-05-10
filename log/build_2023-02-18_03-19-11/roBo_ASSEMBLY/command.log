@@ -1,0 +1,6 @@
+Invoking command in '/home/sumukha/ros2_ws/build/roBo_ASSEMBLY': /usr/bin/cmake /home/sumukha/ros2_ws/src/roBo_ASSEMBLY -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/sumukha/ros2_ws/install/roBo_ASSEMBLY
+Invoked command in '/home/sumukha/ros2_ws/build/roBo_ASSEMBLY' returned '0': /usr/bin/cmake /home/sumukha/ros2_ws/src/roBo_ASSEMBLY -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/sumukha/ros2_ws/install/roBo_ASSEMBLY
+Invoking command in '/home/sumukha/ros2_ws/build/roBo_ASSEMBLY': /usr/bin/cmake --build /home/sumukha/ros2_ws/build/roBo_ASSEMBLY -- -j2 -l2
+Invoked command in '/home/sumukha/ros2_ws/build/roBo_ASSEMBLY' returned '0': /usr/bin/cmake --build /home/sumukha/ros2_ws/build/roBo_ASSEMBLY -- -j2 -l2
+Invoking command in '/home/sumukha/ros2_ws/build/roBo_ASSEMBLY': /usr/bin/cmake --install /home/sumukha/ros2_ws/build/roBo_ASSEMBLY
+Invoked command in '/home/sumukha/ros2_ws/build/roBo_ASSEMBLY' returned '1': /usr/bin/cmake --install /home/sumukha/ros2_ws/build/roBo_ASSEMBLY

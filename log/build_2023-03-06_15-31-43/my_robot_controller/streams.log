@@ -1,0 +1,33 @@
+[0.711s] Invoking command in '/home/sumukha/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/sumukha/ros2_ws/build/my_robot_controller/prefix_override:/home/sumukha/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/sumukha/ros2_ws/build/my_robot_controller/build
+[1.018s] running develop
+[1.253s] Invoked command in '/home/sumukha/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/sumukha/ros2_ws/build/my_robot_controller/prefix_override:/home/sumukha/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/sumukha/ros2_ws/build/my_robot_controller/build
+[1.255s] Invoking command in '/home/sumukha/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/sumukha/ros2_ws/build/my_robot_controller/prefix_override:/home/sumukha/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/sumukha/ros2_ws/build/my_robot_controller/build install --record /home/sumukha/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
+[1.492s] running egg_info
+[1.494s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[1.496s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[1.498s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[1.499s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[1.500s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[1.503s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[1.504s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[1.505s] running build
+[1.505s] running build_py
+[1.506s] copying my_robot_controller/subscriber.py -> /home/sumukha/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[1.506s] running install
+[1.507s] running install_lib
+[1.508s] copying /home/sumukha/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/subscriber.py -> /home/sumukha/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[1.509s] byte-compiling /home/sumukha/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/subscriber.py to subscriber.cpython-310.pyc
+[1.510s] running install_data
+[1.511s] running install_egg_info
+[1.514s] removing '/home/sumukha/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[1.530s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/sumukha/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[1.531s] running install_scripts
+[1.552s] Installing Pub_node script to /home/sumukha/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.552s] Installing circle script to /home/sumukha/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.557s] Installing node script to /home/sumukha/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.557s] Installing sub_node script to /home/sumukha/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.557s] Installing test_node script to /home/sumukha/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.557s] Installing traingle script to /home/sumukha/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.557s] Installing turtle_control script to /home/sumukha/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[1.557s] writing list of installed files to '/home/sumukha/ros2_ws/build/my_robot_controller/install.log'
+[1.605s] Invoked command in '/home/sumukha/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/sumukha/ros2_ws/build/my_robot_controller/prefix_override:/home/sumukha/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/sumukha/ros2_ws/build/my_robot_controller/build install --record /home/sumukha/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed

@@ -1,0 +1,12 @@
+[33mCMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CATKIN_INSTALL_INTO_PREFIX_ROOT
+
+[0m
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/sumukha/ros2_ws/src/roboassembly/description": No such file or
+  directory.
+
+[0m

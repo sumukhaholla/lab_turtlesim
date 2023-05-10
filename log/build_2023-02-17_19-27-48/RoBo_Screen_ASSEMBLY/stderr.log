@@ -1,0 +1,7 @@
+WARNING: Package name "RoBo_Screen_ASSEMBLY" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/sumukha/ros2_ws/src/RoBo_Screen_ASSEMBLY/description": No such file
+  or directory.
+
+[0m

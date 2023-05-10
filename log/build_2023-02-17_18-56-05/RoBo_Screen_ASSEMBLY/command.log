@@ -1,0 +1,2 @@
+Invoking command in '/home/sumukha/ros2_ws/build/RoBo_Screen_ASSEMBLY': /usr/bin/cmake /home/sumukha/ros2_ws/src/RoBo_Screen_ASSEMBLY -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/sumukha/ros2_ws/install/RoBo_Screen_ASSEMBLY
+Invoked command in '/home/sumukha/ros2_ws/build/RoBo_Screen_ASSEMBLY' returned '1': /usr/bin/cmake /home/sumukha/ros2_ws/src/RoBo_Screen_ASSEMBLY -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/sumukha/ros2_ws/install/RoBo_Screen_ASSEMBLY

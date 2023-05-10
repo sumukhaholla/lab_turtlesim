@@ -1,0 +1,9 @@
+/home/sumukha/ros2_ws/build/roboassembly/CMakeFiles/uninstall.dir
+/home/sumukha/ros2_ws/build/roboassembly/CMakeFiles/roboassembly_uninstall.dir
+/home/sumukha/ros2_ws/build/roboassembly/CMakeFiles/test.dir
+/home/sumukha/ros2_ws/build/roboassembly/CMakeFiles/edit_cache.dir
+/home/sumukha/ros2_ws/build/roboassembly/CMakeFiles/rebuild_cache.dir
+/home/sumukha/ros2_ws/build/roboassembly/CMakeFiles/list_install_components.dir
+/home/sumukha/ros2_ws/build/roboassembly/CMakeFiles/install.dir
+/home/sumukha/ros2_ws/build/roboassembly/CMakeFiles/install/local.dir
+/home/sumukha/ros2_ws/build/roboassembly/CMakeFiles/install/strip.dir

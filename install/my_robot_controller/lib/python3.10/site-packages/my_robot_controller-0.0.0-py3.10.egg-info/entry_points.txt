@@ -1,0 +1,13 @@
+[console_scripts]
+Pub_node = my_robot_controller.pub:main
+circle = my_robot_controller.turtle_Circle:main
+node = my_robot_controller.three_node:main
+node01 = my_robot_controller.spawn:main
+spawn_killer = my_robot_controller.spawn_kill:main
+spiral = my_robot_controller.spiral:main
+square = my_robot_controller.square:main
+sub_node = my_robot_controller.subscriber:main
+test_node = my_robot_controller.my_first_node:main
+traingle = my_robot_controller.turtle_Traingle:main
+turtle_control = my_robot_controller.turtle_control:main
+

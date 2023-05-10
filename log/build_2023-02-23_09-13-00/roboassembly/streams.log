@@ -1,0 +1,13 @@
+[0.363s] Invoking command in '/home/sumukha/ros2_ws/build/roboassembly': /usr/bin/cmake --build /home/sumukha/ros2_ws/build/roboassembly -- -j2 -l2
+[0.535s] Invoked command in '/home/sumukha/ros2_ws/build/roboassembly' returned '0': /usr/bin/cmake --build /home/sumukha/ros2_ws/build/roboassembly -- -j2 -l2
+[0.600s] Invoking command in '/home/sumukha/ros2_ws/build/roboassembly': /usr/bin/cmake --install /home/sumukha/ros2_ws/build/roboassembly
+[0.603s] -- Install configuration: ""
+[0.604s] -- Up-to-date: /home/sumukha/ros2_ws/install/roboassembly/share/roboassembly/config
+[0.604s] -- Up-to-date: /home/sumukha/ros2_ws/install/roboassembly/share/roboassembly/config/joint_names_roboassembly.yaml
+[0.605s] [31mCMake Error at cmake_install.cmake:46 (file):
+[0.605s]   file INSTALL cannot find
+[0.605s]   "/home/sumukha/ros2_ws/src/roboassembly/description": No such file or
+[0.605s]   directory.
+[0.605s] 
+[0.605s] [0m
+[0.610s] Invoked command in '/home/sumukha/ros2_ws/build/roboassembly' returned '1': /usr/bin/cmake --install /home/sumukha/ros2_ws/build/roboassembly

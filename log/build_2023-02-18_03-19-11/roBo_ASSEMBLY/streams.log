@@ -1,0 +1,40 @@
+[0.462s] Invoking command in '/home/sumukha/ros2_ws/build/roBo_ASSEMBLY': /usr/bin/cmake /home/sumukha/ros2_ws/src/roBo_ASSEMBLY -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/sumukha/ros2_ws/install/roBo_ASSEMBLY
+[0.728s] -- The C compiler identification is GNU 11.3.0
+[0.931s] -- The CXX compiler identification is GNU 11.3.0
+[0.956s] -- Detecting C compiler ABI info
+[1.108s] -- Detecting C compiler ABI info - done
+[1.108s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.110s] -- Detecting C compile features
+[1.113s] -- Detecting C compile features - done
+[1.121s] -- Detecting CXX compiler ABI info
+[1.258s] -- Detecting CXX compiler ABI info - done
+[1.269s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.269s] -- Detecting CXX compile features
+[1.271s] -- Detecting CXX compile features - done
+[1.280s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.566s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.762s] -- Found ament_lint_auto: 0.12.5 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.849s] WARNING: Package name "roBo_ASSEMBLY" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[1.880s] -- Configuring done
+[1.884s] -- Generating done
+[1.886s] [33mCMake Warning:
+[1.886s]   Manually-specified variables were not used by the project:
+[1.886s] 
+[1.886s]     CATKIN_INSTALL_INTO_PREFIX_ROOT
+[1.886s] 
+[1.886s] [0m
+[1.887s] -- Build files have been written to: /home/sumukha/ros2_ws/build/roBo_ASSEMBLY
+[1.893s] Invoked command in '/home/sumukha/ros2_ws/build/roBo_ASSEMBLY' returned '0': /usr/bin/cmake /home/sumukha/ros2_ws/src/roBo_ASSEMBLY -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/sumukha/ros2_ws/install/roBo_ASSEMBLY
+[1.895s] Invoking command in '/home/sumukha/ros2_ws/build/roBo_ASSEMBLY': /usr/bin/cmake --build /home/sumukha/ros2_ws/build/roBo_ASSEMBLY -- -j2 -l2
+[1.935s] Invoked command in '/home/sumukha/ros2_ws/build/roBo_ASSEMBLY' returned '0': /usr/bin/cmake --build /home/sumukha/ros2_ws/build/roBo_ASSEMBLY -- -j2 -l2
+[1.988s] Invoking command in '/home/sumukha/ros2_ws/build/roBo_ASSEMBLY': /usr/bin/cmake --install /home/sumukha/ros2_ws/build/roBo_ASSEMBLY
+[1.996s] -- Install configuration: ""
+[1.996s] -- Installing: /home/sumukha/ros2_ws/install/roBo_ASSEMBLY/share/roBo_ASSEMBLY/config
+[1.997s] -- Installing: /home/sumukha/ros2_ws/install/roBo_ASSEMBLY/share/roBo_ASSEMBLY/config/joint_names_roBo_ASSEMBLY.yaml
+[1.997s] [31mCMake Error at cmake_install.cmake:46 (file):
+[1.997s]   file INSTALL cannot find
+[1.997s]   "/home/sumukha/ros2_ws/src/roBo_ASSEMBLY/description": No such file or
+[1.997s]   directory.
+[1.997s] 
+[1.997s] [0m
+[2.000s] Invoked command in '/home/sumukha/ros2_ws/build/roBo_ASSEMBLY' returned '1': /usr/bin/cmake --install /home/sumukha/ros2_ws/build/roBo_ASSEMBLY

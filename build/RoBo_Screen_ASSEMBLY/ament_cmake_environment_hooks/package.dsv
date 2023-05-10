@@ -1,0 +1,4 @@
+source;share/RoBo_Screen_ASSEMBLY/local_setup.bash
+source;share/RoBo_Screen_ASSEMBLY/local_setup.dsv
+source;share/RoBo_Screen_ASSEMBLY/local_setup.sh
+source;share/RoBo_Screen_ASSEMBLY/local_setup.zsh

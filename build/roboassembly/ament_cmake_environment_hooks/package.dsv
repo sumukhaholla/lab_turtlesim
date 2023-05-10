@@ -1,0 +1,4 @@
+source;share/roboassembly/local_setup.bash
+source;share/roboassembly/local_setup.dsv
+source;share/roboassembly/local_setup.sh
+source;share/roboassembly/local_setup.zsh
